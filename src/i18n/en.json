@@ -1,0 +1,22 @@
+{
+    "homeScreen": {
+        "main": "Home Screen Here",
+        "navigate": "Go To Settings",
+        "back": "Back"
+    },
+    "settingsScreen": {
+        "main": "Settings Screen Here",
+        "back": "Back"
+    },
+    "accountScreen": {
+        "main": "Account Screen Here",
+        "back": "Back"
+    },
+    "questionScreen": {
+        "header": "Quiz!",
+        "back": "Back"
+    },
+    "errors": {
+        "invalidEmail": "Invalid email address."
+    }
+}
